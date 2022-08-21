@@ -1,1 +1,1 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+All contributions, __bug__ reports, __bug__ fixes, documentation improvements, enhancements, __and__ ideas are welcome.
